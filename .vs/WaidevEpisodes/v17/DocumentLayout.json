@@ -27,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\linqintro_waidev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\linqintro_waidev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,19 +79,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LinqIntro_Waidev.csproj",
-              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqIntro_Waidev.csproj",
-              "RelativeDocumentMoniker": "WaidevEpisodes\\LinqIntro_Waidev.csproj",
-              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqIntro_Waidev.csproj",
-              "RelativeToolTip": "WaidevEpisodes\\LinqIntro_Waidev.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-05T11:31:36.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "LinqExtention.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtention.cs",
@@ -104,12 +87,11 @@
               "RelativeToolTip": "WaidevEpisodes\\LinqExtention.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:32.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:32.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\ICustomerService.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\ICustomerService.cs",
@@ -117,12 +99,11 @@
               "RelativeToolTip": "WaidevEpisodes\\ICustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:28.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:28.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ICustomerData.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\ICustomerData.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\ICustomerData.cs",
@@ -130,8 +111,7 @@
               "RelativeToolTip": "WaidevEpisodes\\ICustomerData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:23.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:23.963Z"
             },
             {
               "$type": "Document",
@@ -143,8 +123,7 @@
               "RelativeToolTip": "WaidevEpisodes\\Data\\ICsv.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:03.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:03.563Z"
             },
             {
               "$type": "Document",
@@ -156,8 +135,7 @@
               "RelativeToolTip": "WaidevEpisodes\\CustomerData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:14.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:14.609Z"
             },
             {
               "$type": "Document",
@@ -169,8 +147,7 @@
               "RelativeToolTip": "WaidevEpisodes\\Data\\Csv.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:30:53.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:30:53.927Z"
             },
             {
               "$type": "Document",
@@ -182,12 +159,11 @@
               "RelativeToolTip": "WaidevEpisodes\\CustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:32:51.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:32:51.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "CustomerFilters.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\CustomerFilters.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\CustomerFilters.cs",
@@ -195,12 +171,11 @@
               "RelativeToolTip": "WaidevEpisodes\\CustomerFilters.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:18.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:18.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\Customer.cs",
@@ -208,8 +183,7 @@
               "RelativeToolTip": "WaidevEpisodes\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:10.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:31:10.014Z"
             }
           ]
         }
