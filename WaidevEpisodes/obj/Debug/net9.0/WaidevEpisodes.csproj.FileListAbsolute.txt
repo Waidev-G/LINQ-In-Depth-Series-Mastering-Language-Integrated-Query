@@ -12,3 +12,4 @@ D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\refint\Waid
 D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\WaidevEpisodes.pdb
 D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\WaidevEpisodes.genruntimeconfig.cache
 D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\ref\WaidevEpisodes.dll
+D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\WaidevEpisodes.sourcelink.json

@@ -7,40 +7,44 @@
       "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\data\\icsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\data\\icsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\data\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\data\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\dynamiccollections\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\dynamiccollections\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\data\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\data\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\icustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\icustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customerfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customerfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\linqextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\data\\icsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\data\\icsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customerfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customerfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,22 +76,23 @@
               "RelativeDocumentMoniker": "WaidevEpisodes\\Program.cs",
               "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Program.cs",
               "RelativeToolTip": "WaidevEpisodes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:34:37.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LinqExtention.cs",
-              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtention.cs",
-              "RelativeDocumentMoniker": "WaidevEpisodes\\LinqExtention.cs",
-              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtention.cs",
-              "RelativeToolTip": "WaidevEpisodes\\LinqExtention.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\DynamicCollections\\CustomList.cs",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\DynamicCollections\\CustomList.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\DynamicCollections\\CustomList.cs",
+              "RelativeToolTip": "WaidevEpisodes\\DynamicCollections\\CustomList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:32.254Z"
+              "WhenOpened": "2025-02-09T09:40:10.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ICustomerData.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\ICustomerData.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\ICustomerData.cs",
@@ -115,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ICsv.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\ICsv.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\Data\\ICsv.cs",
@@ -127,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CustomerData.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\CustomerData.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\CustomerData.cs",
@@ -139,19 +144,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Csv.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\Csv.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\Data\\Csv.cs",
               "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\Csv.cs",
               "RelativeToolTip": "WaidevEpisodes\\Data\\Csv.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:30:53.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\CustomerService.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\CustomerService.cs",
@@ -163,7 +168,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\Customer.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
+              "RelativeToolTip": "WaidevEpisodes\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:31:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinqExtention.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtention.cs",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\LinqExtention.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtention.cs",
+              "RelativeToolTip": "WaidevEpisodes\\LinqExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:31:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CustomerFilters.cs",
               "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\CustomerFilters.cs",
               "RelativeDocumentMoniker": "WaidevEpisodes\\CustomerFilters.cs",
@@ -172,18 +201,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:31:18.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
-              "RelativeDocumentMoniker": "WaidevEpisodes\\Customer.cs",
-              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
-              "RelativeToolTip": "WaidevEpisodes\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:31:10.014Z"
             }
           ]
         }

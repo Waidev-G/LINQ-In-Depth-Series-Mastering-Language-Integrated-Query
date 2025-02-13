@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaidevEpisodes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4006c06bc30980384030c724f918b7766dd13efb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+031c0c2968fc19794ca40eceaaccf8dd1230870f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaidevEpisodes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaidevEpisodes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
