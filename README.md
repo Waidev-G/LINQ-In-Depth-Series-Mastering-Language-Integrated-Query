@@ -40,8 +40,10 @@ LINQ is a powerful feature of .NET that allows developers to query collections, 
 Ready to get started? Check out the full series on YouTube:  
 [LINQ In-Depth Series: Mastering Language Integrated Query](https://www.youtube.com/@waidev-c)
 
-Don't forget to **like**, **subscribe**, and hit the **notification bell** to stay updated with new videos in the series!
-
+Don't forget to:  
+- 👍 **Like** the video  
+- 🔔 **Subscribe** to the channel and hit the **bell icon** to stay updated  
+- 📤 **Share** with your friends  
 ## Connect with Me
 
 Have questions or feedback? Feel free to reach out:  
