@@ -38,7 +38,7 @@ LINQ is a powerful feature of .NET that allows developers to query collections, 
 ## Watch the Series
 
 Ready to get started? Check out the full series on YouTube:  
-[LINQ In-Depth Series: Mastering Language Integrated Query](https://www.youtube.com/@waidev-c)
+[LINQ In-Depth Series: Mastering Language Integrated Query](https://www.youtube.com/@Muneer_Hussain_Waidev)
 
 Don't forget to:  
 - 👍 **Like** the video  
