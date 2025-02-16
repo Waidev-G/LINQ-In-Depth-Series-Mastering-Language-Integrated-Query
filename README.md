@@ -49,7 +49,7 @@ Don't forget to:
 Have questions or feedback? Feel free to reach out:  
 - **LinkedIn**: [@mhf1](https://www.linkedin.com/in/mhf1/)  
 - **GitHub**: [@Waidev-G](https://github.com/@Waidev-G)
-- **YouTube**: [@waidev-c](https://youtube.com/@waidev-c)
+- **YouTube**: [@Muneer_Hussain_Waidev](https://youtube.com/@Muneer_Hussain_Waidev)
 - **StackOverflow**:https://stackoverflow.com/users/11419241/muneer-hussain 
 - **Email**: developer.muneer@gmail.com 
 
