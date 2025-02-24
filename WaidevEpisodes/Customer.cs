@@ -26,6 +26,10 @@ namespace WaidevEpisodes
         public decimal Salary { get; set; }  // New property for salary
         #endregion
 
+        public Customer()
+        {
+                
+        }
         #region Constructor for creating a new customer
         public Customer(int customerId, string firstName, string lastName, string email, string phoneNumber, string address, string city, string country, DateTime dateOfBirth, DateTime registrationDate, decimal salary, bool isActive = true)
         {
@@ -43,6 +47,20 @@ namespace WaidevEpisodes
             IsActive = isActive;
         }
         #endregion
+        public IEnumerable<string> getCompactCustomer()
+        {
+            yield return CustomerId.ToString();
+            yield return FirstName.ToString();
+            //yield return Email;
+            //yield return City;
+            yield return Country.ToString();
+            yield return new DateOnly( DateOfBirth.Year,DateOfBirth.Month,DateOfBirth.Day).ToString();
+            yield return new DateOnly(RegistrationDate.Year, RegistrationDate.Month, RegistrationDate.Day).ToString();
+           
+            yield return Salary.ToString();
+            yield return IsActive.ToString();
+
+        }
     }
 
 

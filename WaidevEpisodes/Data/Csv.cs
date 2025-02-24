@@ -8,14 +8,19 @@ using System.Threading.Tasks;
 
 namespace WaidevEpisodes.Data
 {
-    public class Csv : ICsv
+    public sealed class Csv : ICsv
     {
-        private readonly ICustomerService _customerService;
+        private const int TableWidth = 100;
+        private readonly ICustomerService _customerService=default!;
         private  string path  = @"D:\WaidevEpisodes\WaidevTest\Episode-2\LinqIntro_Waidev\Data\Output.csv";
 
         public Csv(ICustomerService customerService)
         {
             _customerService = customerService;
+        }
+        public Csv()
+        {
+                
         }
         public void Create()
         {
@@ -52,7 +57,7 @@ namespace WaidevEpisodes.Data
                 File.AppendAllText(path, output.ToString());
                 Console.WriteLine("Output.csv created");
             }
-            catch (Exception _)
+            catch 
             {
                 Console.WriteLine("Data could not be written to the CSV file.");
                 return;
@@ -67,6 +72,11 @@ namespace WaidevEpisodes.Data
                 
         }
 
+
+      
+
+
+        #region Helpers
         private static Customer MapCustomer(string customerString)
         {
             var customer = customerString.Split(",");
@@ -87,5 +97,63 @@ namespace WaidevEpisodes.Data
                salary: Convert.ToDecimal(customer[11])
            );
         }
+
+        #endregion
+
+        #region Old
+        // public void PrintCustomers(IEnumerable<Customer> customers)
+        // {
+        //     warmup();
+
+
+        //     foreach (var customer in customers)
+        //     {
+        //         PrintRow(customer.getCompactCustomer().ToArray());
+        //     }
+        // }
+
+
+        // private void warmup()
+        // {
+        //     Console.Clear();
+        //     PrintLine();
+        //     PrintRow("CustomerId", "FullName", "Country", "DateOfBirth", "RegistrationDate", "Salary", "IsActive");
+        //     PrintLine();
+        //     PrintRow("", "", "", "");
+        //     PrintRow("", "", "", "");
+        //     PrintLine();
+        // }
+        //private  void PrintLine()
+        // {
+        //     Console.WriteLine(new string('-', TableWidth));
+        // }
+
+        //private  void PrintRow(params string[] columns)
+        // {
+        //     int width = (TableWidth - columns.Length) / columns.Length;
+        //     string row = "|";
+
+        //     foreach (string column in columns)
+        //     {
+        //         row += AlignCentre(column, width) + "|";
+        //     }
+
+        //     Console.WriteLine(row);
+        // }
+
+        //  string AlignCentre(string text, int width)
+        // {
+        //     text = text.Length > width ? text.Substring(0, width - 3) + "..." : text;
+
+        //     if (string.IsNullOrEmpty(text))
+        //     {
+        //         return new string(' ', width);
+        //     }
+        //     else
+        //     {
+        //         return text.PadRight(width - (width - text.Length) / 2).PadLeft(width);
+        //     }
+        // }
+        #endregion
     }
 }

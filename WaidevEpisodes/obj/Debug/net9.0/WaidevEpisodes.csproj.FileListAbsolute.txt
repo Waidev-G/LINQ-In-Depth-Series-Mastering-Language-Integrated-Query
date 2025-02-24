@@ -13,3 +13,4 @@ D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\WaidevEpiso
 D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\WaidevEpisodes.genruntimeconfig.cache
 D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\ref\WaidevEpisodes.dll
 D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\obj\Debug\net9.0\WaidevEpisodes.sourcelink.json
+D:\WaidevEpisodes\New\WaidevEpisodes\WaidevEpisodes\bin\Debug\net9.0\Data\Output.csv
