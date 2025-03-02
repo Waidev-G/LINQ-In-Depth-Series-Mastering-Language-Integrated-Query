@@ -9,6 +9,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\linqextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\linqextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\data\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\data\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|d:\\waidevepisodes\\new\\waidevepisodes\\waidevepisodes\\data\\output.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7940F2D-A3E0-4365-B7E2-163C1F25C6A5}|WaidevEpisodes\\WaidevEpisodes.csproj|solutionrelative:waidevepisodes\\data\\output.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,20 +41,41 @@
               "Name": "ST:460315825:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Csv.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\Csv.cs",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\Data\\Csv.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\Csv.cs",
+              "RelativeToolTip": "WaidevEpisodes\\Data\\Csv.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwEYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:48:06.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinqExtentions.cs",
-              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtentions.cs",
-              "RelativeDocumentMoniker": "WaidevEpisodes\\LinqExtentions.cs",
-              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtentions.cs",
-              "RelativeToolTip": "WaidevEpisodes\\LinqExtentions.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAASwDIAAACKAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Output.csv",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\Output.csv",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\Data\\Output.csv",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Data\\Output.csv",
+              "RelativeToolTip": "WaidevEpisodes\\Data\\Output.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-02-27T14:27:23.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\Customer.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Customer.cs",
+              "RelativeToolTip": "WaidevEpisodes\\Customer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T16:42:04.899Z",
+              "WhenOpened": "2025-02-26T14:12:07.367Z",
               "EditorCaption": ""
             },
             {
@@ -53,9 +86,22 @@
               "RelativeDocumentMoniker": "WaidevEpisodes\\Program.cs",
               "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\Program.cs",
               "RelativeToolTip": "WaidevEpisodes\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T13:11:10.535Z",
+              "WhenOpened": "2025-02-24T12:00:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqExtentions.cs",
+              "DocumentMoniker": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtentions.cs",
+              "RelativeDocumentMoniker": "WaidevEpisodes\\LinqExtentions.cs",
+              "ToolTip": "D:\\WaidevEpisodes\\New\\WaidevEpisodes\\WaidevEpisodes\\LinqExtentions.cs",
+              "RelativeToolTip": "WaidevEpisodes\\LinqExtentions.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:42:04.899Z",
               "EditorCaption": ""
             }
           ]

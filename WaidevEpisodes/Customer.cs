@@ -24,6 +24,49 @@ namespace WaidevEpisodes
         public DateTime RegistrationDate { get; set; }
         public bool IsActive { get; set; }
         public decimal Salary { get; set; }  // New property for salary
+       // Computed property to calculate accurate age
+        public (int Years ,int Months,int Days) Age
+        {
+            get
+            {
+                var today = DateTime.Today;
+                var age = today.Year - DateOfBirth.Year;
+
+                // Check if the birthday has occurred this year
+                if (DateOfBirth.Date > today.AddYears(-age))
+                {
+                    age--;
+                }
+
+                // Calculate months and days
+                var lastBirthday = DateOfBirth.AddYears(age);
+                var months = 0;
+                var days = 0;
+
+                if (today > lastBirthday)
+                {
+                    var monthDifference = today.Month - lastBirthday.Month;
+                    if (monthDifference < 0)
+                    {
+                        monthDifference += 12;
+                    }
+                    months = monthDifference;
+
+                    var dayDifference = today.Day - lastBirthday.Day;
+                    if (dayDifference < 0)
+                    {
+                        var previousMonth = today.AddMonths(-1);
+                        days = DateTime.DaysInMonth(previousMonth.Year, previousMonth.Month) - lastBirthday.Day + today.Day;
+                    }
+                    else
+                    {
+                        days = dayDifference;
+                    }
+                }
+                int years = age;
+                return (years, months , days);
+            }
+        }
         #endregion
 
         public Customer()

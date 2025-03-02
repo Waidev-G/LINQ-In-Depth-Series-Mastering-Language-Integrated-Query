@@ -68,7 +68,7 @@ namespace WaidevEpisodes.Data
             if (!File.Exists(path)) return Enumerable.Empty<Customer>();
             return File.ReadAllLines(path)
                   .Skip(1)
-                  .Select(MapCustomer);
+                  .Select(MapCustomer).ToList();
                 
         }
 
